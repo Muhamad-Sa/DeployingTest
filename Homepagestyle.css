@@ -243,12 +243,12 @@ nav ul {
 }
 
 .category#men {
-    background: url('/Html/images/mans.jpg') no-repeat center center/cover;
+    background: url('images/mans.jpg') no-repeat center center/cover;
     max-width: 600px; /* Ensure a max-width */
 }
 
 .category#women {
-    background: url('/Html/images/women.jpg') no-repeat center center/cover;
+    background: url('images/women.jpg') no-repeat center center/cover;
     max-width: 600px; /* Ensure a max-width */
 }
 
